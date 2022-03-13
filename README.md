@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @SNprogSN
 - 👀 Érdekel: C# , Web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach 
+-Elérhetőség: sapinorbertprog@gmail.com
