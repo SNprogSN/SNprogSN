@@ -1,4 +1,4 @@
-# Hi, I'm Norbert Sápi 👋
+# Hi, I'm Norbert Sápi
 
 **Platform Engineer · DevOps Engineer · Full-Stack Developer**
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 What I Do
+### What I Do
 
 I design and build **Internal Developer Platforms** end-to-end — bridging the gap between development and operations. My background spans 15+ years of software engineering, from .NET and Go backends to fully automated Kubernetes clusters across on-prem and multi-cloud environments.
 
@@ -14,7 +14,7 @@ I design and build **Internal Developer Platforms** end-to-end — bridging the 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <table>
   <tr>
@@ -57,7 +57,7 @@ I design and build **Internal Developer Platforms** end-to-end — bridging the 
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
 <a href="https://github.com/SanUmbrella/platform-portfolio">
   <img src="https://img.shields.io/badge/SNprogSN_Platform-Multi--Cloud_IDP-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Platform Portfolio">
